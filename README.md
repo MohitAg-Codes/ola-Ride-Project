@@ -74,7 +74,7 @@ SQL queries are included in:
 - Bookings by Vehicle Category  
 - Revenue Distribution  
 - Ratings Comparison  
-![Vehicle Type](VehicleType.png)
+![Vehicle Type](Vehicle%20Type.png)
 
 ---
 
