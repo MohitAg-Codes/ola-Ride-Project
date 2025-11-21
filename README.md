@@ -35,7 +35,6 @@ The dataset contains one month of OLA ride bookings for Bengaluru.
 - **MySQL Workbench** – SQL Queries  
 - **Power BI** – Dashboard & KPIs  
 - **DAX** – Measures  
-- **Canva / PowerPoint** – Final Reporting  
 
 ---
 
